@@ -1,0 +1,2 @@
+# kimdi
+dogecoin
